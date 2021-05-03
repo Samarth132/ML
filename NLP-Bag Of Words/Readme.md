@@ -8,4 +8,4 @@ The UI is built using streamlit library for python.
 
 * Download the <b>*.py*</b>  file.
 
-* Open your treminal/command prompt and type <b>*streamlit filename.py*</b> 
+* Open your treminal/command prompt and type <b>*streamlit run filename.py*</b> 
