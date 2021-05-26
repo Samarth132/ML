@@ -6,6 +6,7 @@ The UI is built using streamlit library for python.
 
 #### To run the app:
 * Install streamlit library.
+* Install nltk.
 
 * Download the <b>*.py*</b>  file.
 
